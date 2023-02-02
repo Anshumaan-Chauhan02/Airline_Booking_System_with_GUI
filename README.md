@@ -1,5 +1,22 @@
 <h2 align='center'><b> Airline Booking System </b></h2>
-<img width='1500' height='300' src="https://user-images.githubusercontent.com/98472023/216372117-7a79f260-f6da-4ca5-96eb-c502444f3023.png" alt="my banner"> 
+<img width='1500' height='300' src="https://user-images.githubusercontent.com/98472023/216372483-df9c4f3e-15bb-4433-9677-4f119efeaaaa.png" alt="my banner"> 
 
 <h4 align='center'> Project Description </h4> 
-Machine learning algorithms have made tremendous progress recently and have been applied to various real-world problems. One of the applications also includes the task of predicting delays in Flight timings, which is one of the serious problems faced by the Airline business. However, the problem with machine learning models involving deep learning is that they need - high computational power systems to train and store the model. Additionally, the system needs to be made end to end scalable and is ignored by the trends in recent research. This paper discusses the approach we have used to predict the delay in flight by framing this as a prediction problem. Most of the research in machine learning goes into the part of predictive modeling. However, we focus on the end-to-end aspect of the problem by using industry-standard high-performance systems such as MySQL and SparkSQL. We show that our solution can not only be used for predictive modeling but also provides an end-to-end explanation of the whole product with faster real-time predictions and scalability. <br><br>
+This project aimed to imitate the functionality of Google's Flight Booking System. An artificial flight dataset was created manually which was later queried for searching and booking with the help of JDBC and MySQL. Queries were performed based on the user preferences specified through the designed Graphical User Interface (GUI). <br><br>
+
+This Repository consist of code and documentation needed for successfully running the project End to End. <br><br>
+Below are the steps needed to be installed before running this project :
+
+### Technical Skills 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 1) Installing of MySQL and the related connectors
+
+### Install MySQL
+    https://dev.mysql.com/downloads/installer/
+    
+### Install MySQL Connector
+    https://jar-download.com/artifacts/mysql/mysql-connector-java/5.1.48/source-code
+
+### Jar files used for the project are already provided in the repository
