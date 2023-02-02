@@ -36,7 +36,6 @@ Below are the steps needed to be installed before running this project :
 * assignment.sql : Collection of queries ran on the dataset 
 * .png files : Images used in the GUI
 * .jar files : JAR files that are used for the JDBC connector 
-<br>
 
 #### Steps to run successfully:
 - Run ConnectDB.java to open the GUI
